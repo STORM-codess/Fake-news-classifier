@@ -1,8 +1,4 @@
-Here’s a concise and professional project description for your **Fake News Classifier**:
-
----
-
-### 🔍 Fake News Classifier with Explainable AI
+🔍 Fake News Classifier with Explainable AI
 
 The **Fake News Classifier** is a machine learning-based system designed to automatically detect misleading or false news articles. Built using natural language processing (NLP) techniques and classification algorithms, the project focuses on distinguishing between **real** and **fake** news headlines or articles, specifically within the **Indian context**.
 
